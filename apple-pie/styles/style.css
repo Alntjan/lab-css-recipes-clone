@@ -1,0 +1,32 @@
+.initialParagraph {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.alignBlock {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.alignCenter {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+p {
+  font-size: 30px;
+}
+
+ul {
+    list-style-type: ;
+}
+
+h2 {
+    font-style: initial;
+}
+
+div {
+    border-bottom: dashed;
+    border-bottom-width: 0,5px;
+}
