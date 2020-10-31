@@ -1,0 +1,17 @@
+h1 {
+    text-align: justify;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  div {
+    text-align: center;
+    border-bottom: 3px dotted black;
+  }
+
+  ul {
+    list-style-type: none;
+}
+
